@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GoBananas/static/css/main.e6c13ad2.css",
+    "main.js": "/GoBananas/static/js/main.6d4bf76c.js",
+    "static/js/453.2c2759b8.chunk.js": "/GoBananas/static/js/453.2c2759b8.chunk.js",
+    "index.html": "/GoBananas/index.html",
+    "main.e6c13ad2.css.map": "/GoBananas/static/css/main.e6c13ad2.css.map",
+    "main.6d4bf76c.js.map": "/GoBananas/static/js/main.6d4bf76c.js.map",
+    "453.2c2759b8.chunk.js.map": "/GoBananas/static/js/453.2c2759b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.6d4bf76c.js"
+  ]
+}
